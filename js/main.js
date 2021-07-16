@@ -31,3 +31,5 @@ if (eta < 18) {
     var prezzoOver65 = (prezzoTotale - sconto);
     console.log('Totale da pagare ' + prezzoOver65);
 }
+
+
